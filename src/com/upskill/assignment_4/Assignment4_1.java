@@ -5,7 +5,7 @@ package com.upskill.assignment_4;
 	class Encapsulate {
 		private String username = "Jue";
 		private String password = "test";
-		private String email = "juel@talentech.com";
+		private String email = "juel28@talentech.com";
 		private String first_name = "Mohammad";
 		private String last_name = "Haque";
 
