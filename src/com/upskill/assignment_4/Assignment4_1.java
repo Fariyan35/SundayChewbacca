@@ -7,7 +7,7 @@ package com.upskill.assignment_4;
 		private String password = "test";
 		private String email = "juel@talentech.com";
 		private String first_name = "Mohammad";
-		private String last_name = "Haq";
+		private String last_name = "Haque";
 
 		void display() {
 			System.out.println("Username: " + username);
