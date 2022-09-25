@@ -4,7 +4,7 @@ package com.upskill.assignment_4;
 /*Write a USER PROGRAM using encapsulation that contains the username, password, email, first and last names of a user of our application. Display the user information in console output. */
 	class Encapsulate {
 		private String username = "Jue";
-		private String password = "test";
+		private String password = "test12";
 		private String email = "juel28@talentech.com";
 		private String first_name = "Mohammad";
 		private String last_name = "Haque";
